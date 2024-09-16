@@ -1,0 +1,8 @@
+fastapi
+pydantic
+crewai
+langchain_groq
+requests
+crewai_tools
+flask
+langchain_google_genai
